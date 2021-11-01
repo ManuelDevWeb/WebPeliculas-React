@@ -1,0 +1,31 @@
+1. Crear el proyecto
+
+2. Añadir su respectivo repositorio
+
+3. Extraer los archivos del template para empezar a trabajar https://github.com/lucasmoy-dev/Curso-de-React
+
+4. Movier a public las carpetas: css, fonts, images, js
+
+5. Pasar el body del movielist.html al return del App.js
+
+6. Crear el archivo: src/components
+
+7. Crear el componente: src/components/Pelicula.js 
+
+8. Crear el archivo: src/pages
+
+9. Crear el componente: src/pages/PageWrapper.js
+
+10. Crear el archivo: src/peliculas.json
+
+11. Crear el componente: src/components/Paginacion.js 
+
+12. Instalar axios: npm i axios
+
+13. Instalar react router: npm i react-router-dom 
+
+14. Crear el componente: src/pages/ListadoPeliculas.js. Pasar todo lo que hicimos en App.js a este componente
+
+15. Implementar y manejar rutas en el componente App.js
+
+16. Crear el componente: src/pages/Blog.js
